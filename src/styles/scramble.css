@@ -1,0 +1,19 @@
+.OpenSans-font {
+  font-family: "OpenSans";
+  font-size: 22px;
+}
+.text-blue {
+  color: #43639e;
+}
+.background-gray {
+  background-color: #e1e1e1;
+}
+.space-yellow {
+  background-color: #ffb74d;
+}
+.correct-green {
+  background-color: #4caf50;
+}
+.no-outline {
+  outline: none;
+}
